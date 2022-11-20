@@ -9,7 +9,7 @@ cd AugeNews
 echo "augenews.lzart.com.br" > docs/CNAME
 git add .
 git commit -a -m "Deploy - $today"
-git push
+git push -f
 cd ..
 cd AugeNewsBase
 git add .
