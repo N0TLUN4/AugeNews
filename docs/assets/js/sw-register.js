@@ -1,0 +1,1 @@
+window.onload=function(){var e=document.createElement("script"),t=document.getElementsByTagName("script")[0];e.async=!0,e.src="/sw-register.js?v="+Date.now(),t.parentNode.insertBefore(e,t)};
